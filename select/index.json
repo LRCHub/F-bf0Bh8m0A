@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "CIRCUS",
+  "base_artist": "Stray Kids",
+  "createdAt": "2026-02-09T13:00:14.428981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Circus",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/01_Circus_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Circus",
+      "artist": "MellowHype",
+      "has_synced": true,
+      "path": "select/02_Circus_MellowHype.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Circus",
+      "artist": "Moloko",
+      "has_synced": true,
+      "path": "select/03_Circus_Moloko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Paradise Circus",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/04_Paradise_Circus_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Paradise Circus - Gui Boratto Remix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/05_Paradise_Circus_-_Gui_Boratto_Remix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Circus - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/06_Circus_-_Acoustic;_Live_at_MTV_Unplugged,_Bray_Film_Studios,_Windsor,_England,_U_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Three Ring Circus",
+      "artist": "Beady Eye",
+      "has_synced": true,
+      "path": "select/07_Three_Ring_Circus_Beady_Eye.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Three Ring Circus (Live)",
+      "artist": "Beady Eye",
+      "has_synced": false,
+      "path": "select/08_Three_Ring_Circus_(Live)_Beady_Eye.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Circus",
+      "artist": "Summer Walker",
+      "has_synced": true,
+      "path": "select/09_Circus_Summer_Walker.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Goodbye To The Circus",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/10_Goodbye_To_The_Circus_Aqua.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Inside the Electric Circus",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/11_Inside_the_Electric_Circus_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Circus Lights",
+      "artist": "Deacon Blue",
+      "has_synced": false,
+      "path": "select/12_Circus_Lights_Deacon_Blue.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This House Is A Circus",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/13_This_House_Is_A_Circus_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Paradise Circus",
+      "artist": "Massive Attack vs. Burial",
+      "has_synced": true,
+      "path": "select/14_Paradise_Circus_Massive_Attack_vs._Burial.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sunday Circus Song",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/15_Sunday_Circus_Song_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sunday Circus Song",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/16_Sunday_Circus_Song_The_Cardigans.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CIRCUS",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/pl_01_CIRCUS_Stray_Kids.txt"
+    }
+  ]
+}
